@@ -1,0 +1,2 @@
+Hello. this is a sample text.
+I am practicing to learn how to use the git function.
